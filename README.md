@@ -1,8 +1,8 @@
-# About the Author
+# Design Innovative Robots with LEGO SPIKE Prime
 
 <a href="https://www.packtpub.com/product/design-innovative-robots-with-lego-spike-prime/9781801811576?utm_source=github&utm_medium=repository&utm_campaign=9781801811576"><img src="https://static.packt-cdn.com/products/9781801811576/cover/smaller" alt="About the Author" height="256px" align="right"></a>
 
-This is the code repository for [About the Author](https://www.packtpub.com/product/design-innovative-robots-with-lego-spike-prime/9781801811576?utm_source=github&utm_medium=repository&utm_campaign=9781801811576), published by Packt.
+This is the code repository for [Design Innovative Robots with LEGO SPIKE Prime](https://www.packtpub.com/product/design-innovative-robots-with-lego-spike-prime/9781801811576?utm_source=github&utm_medium=repository&utm_campaign=9781801811576), published by Packt.
 
 **Unleash your creativity and imagination by building exciting robotics projects**
 
