@@ -44,6 +44,11 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781801811576_ColorImages.pdf).
 
+### Code in Action
+Click on following link to see the Code in Action:
+
+[Youtube link](https://bit.ly/3r0qpSy)
+
 ### Related products
 * Panel plate [[Packt]](https://www.packtpub.com/product/smart-robotics-with-lego-mindstorms-robot-inventor/9781800568402?utm_source=github&utm_medium=repository&utm_campaign=9781800568402) [[Amazon]](https://www.amazon.com/dp/1800568401)
 
