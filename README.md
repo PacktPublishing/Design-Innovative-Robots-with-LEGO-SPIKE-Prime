@@ -58,7 +58,5 @@ Click on following link to see the Code in Action:
 **Aaron Maurer**
 also known as Coffeechug is the STEM lead for 21 school districts in Iowa helping to expand STEM, Computer Science, Makerspace, and Purposeful Play into classrooms K-12. Aaron is also a former FIRST LEGO League coach for 8 years with much success working with phenomenal kids.He has a Master Educator License with endorsements in 5-12 Psychology 163; 5-12 World History 166; 5-12 American History 158; 5-12 Computer Science 278; PK-12 Talented and Gifted 107; 5-8 Middle School Generalist 182; and K-8 Computer Science 277.Currently, Aaron is a member of ISTE Making It Happen Award; Lego Education Ambassador and Master Educator; PBS Digital Innovator and All-Star; PITSCO Tag Committee; Microsoft Innovator Educator Expert; Microsoft Innovative Educator Fellow; Global Learning Mentor (formerly Skype Master Teacher); Minecraft Global Mentor; and Makey Makey Ambassador.Finally, Aaron was a finalist for the Iowa Teacher of the Year in 2014.
 
-## Other books by the authors
-* [Panel plate](https://www.packtpub.com/iot-hardware/smart-robotics-with-lego-mindstorms-robot-inventor?utm_source=github&utm_medium=repository&utm_campaign=9781800568402)
 
 
