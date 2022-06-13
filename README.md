@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B17864?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Design Innovative Robots with LEGO SPIKE Prime
 
 <a href="https://www.packtpub.com/product/design-innovative-robots-with-lego-spike-prime/9781801811576?utm_source=github&utm_medium=repository&utm_campaign=9781801811576"><img src="https://static.packt-cdn.com/products/9781801811576/cover/smaller" alt="About the Author" height="256px" align="right"></a>
